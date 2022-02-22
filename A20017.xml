@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true declaration of the state of the manufacture of gold and siluer threed, from the beginning of the making thereof here in England, vntill this present</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20017</idno>
+            <idno type="STC">STC 6456</idno>
+            <idno type="STC">ESTC S116738</idno>
+            <idno type="EEBO-CITATION">99851954</idno>
+            <idno type="PROQUEST">99851954</idno>
+            <idno type="VID">17250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20017)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17250)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1376:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true declaration of the state of the manufacture of gold and siluer threed, from the beginning of the making thereof here in England, vntill this present</title>
+               </titleStmt>
+               <extent>2 leaves   </extent>
+               <publicationStmt>
+                  <publisher>S.n,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1623?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Appeal by the Company of Gold-Wire-Drawers to the Privy Council for enforcement of the ordinances of their charter and for punishement of offenders--STC.</note>
+                  <note>Imprint suggested by STC.</note>
+                  <note>Regarding the charter of the Gold-Wire-Drawers see STC 8711, Proclamations. 1623-06-16.</note>
+                  <note>The British Library copy has notes in manuscript, including a list of names and a note reading in part "imprinted an. 1624".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1603-1625 : James I). --  Proclamations. 1623-06-16.</term>
+               <term>Thread --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:17250:1"/>
+            <pb facs="tcp:17250:2" rendition="simple:additions"/>
+            <pb facs="tcp:17250:3" rendition="simple:additions"/>
+            <head>A true declaration of the ſtate of the Manufacture of gold and ſiluer Threed, from the beginning of the making thereof here in <hi>England,</hi> vntill this preſent.</head>
+            <p>AFter many trials for the making of gold and ſiluer Threed, time at laſt made diſcouery thereof according to the maner of <hi>Millain</hi> in <hi>Ita<g ref="char:EOLhyphen"/>ly,</hi> where it is thought to be one of the moſt beneficiall myſteries in that Nation, conſiſting of ſo many parts, imploying by computation 40000 perſons, wherewith they haue heretofore ſerued Chriſtendome, and thereby enriched themſelues.</p>
+            <p>
+               <hi>Henry</hi> the 4. of <hi>France,</hi> a Prince as well prouident in peace as warre, had ſuch a ſence thereof, that beſides his princely patronage, hee gaue 60000. French Crownes to helpe their proceedings, which by his vntimely death came not to perfection.</p>
+            <p>The laudable practiſe hereof, together with apparant hopes of benefit, both to the vndertakers and the State, (the commoditie not being worth in the Materialls the one moitie it was vſually ſold for, leauing the reſt behind where it was made) was a iuſt motiue to vndertake the ſame, whereby the profit might rather accrew to our ſelues, then to forreigne Nations, viz. that which vſually coſt 5 <hi>s<g ref="char:cmbAbbrStroke">̄</g>.</hi> 6. <hi>d.</hi> is not worth aboue 2 <hi>s<g ref="char:cmbAbbrStroke">̄</g>.</hi> 8 <hi>d.</hi> or thereabouts the reſt being gained by the Manufacture, and therfore was ſet on foote the 8. yeare of the King.</p>
+            <p>The labour was difficult, dangerous, and ſo chargeable to be effected, that the aduenture required a time of priuiledge, to recompence the Induſtry of thoſe that vndertooke the ſame; wherefore it pleaſed his Maieſtie at the ſuite of the late Lord <hi>Io. Harrington</hi> the elder, and the Counteſſe of <hi>Bedford,</hi> to grant a Pattent for the ſole exerciſe thereof for a time.</p>
+            <p>In the paſſing of which Pattent, 3. eſpeciall things preſented themſelues to the conſideration of the State, which were referred to the exami<g ref="char:EOLhyphen"/>nation of the Lord Treaſurer <hi>Salisbury</hi> and others. Firſt, whether it had been a former Trade here or no. Secondly, the conſumption of Bullion. And laſtly, his Maieſties Cuſtomes.</p>
+            <p>For the Firſt, by report of Goldſmiths, Imbrotherers and Silkemen, it was not found to be any former Trade.</p>
+            <p>For the conſumption of Bullion, it was ſuppoſed that the benefit of the Trade far oueruallued that conſumption.</p>
+            <p>For the maintaining of his Maieſties Cuſtomes, the Pattentees gaue ſecurety, and paid accordingly.</p>
+            <p>This Pattent continuing vnder theſe examinations and tryalls almoſt one whole yeare paſt the 9. yeare of the King, with approbation, and ſo continued vntill the 13. without oppoſition, by which time perſons employed, who were many, and of ſeuerall quallities, comming to ſome reaſonable perfection, by chargeable experience to the Pattentees, were for a greater recompence enticed, and imployed by ſtrangers and others in corners, hauing by this time found out cauells againſt the Kings Grant, for want of words which being heard at a Councell Table, was ouer ruled, and a new Pattent granted with more ample words, the better to expreſſe his Maieſties pleaſure, and a Proclamation publiſhed to this effect, which gaue a preſent ſhew of remedy, but fell out otherwiſe: for that this Trade comming to a further veiw of perfection, cer<g ref="char:EOLhyphen"/>taine Gold-wierdrawers for purls, plates, oes, ſpangles, &amp;c. being free of the Goldſmiths Company, layd a title or claime thereto as a part of their Trade, and although before the Lord Chancellour <hi>Elleſmere,</hi> and others of his Maieſties Priuy Councell and Commiſſioners they were heard, and determined not to intermedle, they ceaſed not to continue either to make the commoditie, or to prepare the Materialls in drawne wyer, to ſell to poore people of a deſperate condition, who venting the ſame dayly to Silke-men and Lace-makers for preſent ready money, were forced to ſell their labours ſo cheape, as vrged their neceſſities to ſeeke for new ſeuerall fraudulent deuiſes for benefit, which hath ſince dayly increaſed. So this miſchiefe increaſing, and the error in beleeuing in the valliditie of the Kings Grant, and not conſidering the great benefit of the meaneſt ſubiects liberty, inforced vs to ſeeke new wayes of remedy, by executing of warrants and Commiſſions, wherein they either ex<g ref="char:EOLhyphen"/>ceeding, or not proceeding with that diſcretion and iudgment as was requiſite, drew on many ſeuerall complaints to the laſt Parliament, who conceiuing them iuſt agrieuances both in matter and maner, the Pattent by his Maieſtie <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was condemned, but the Manifacture it ſelfe by reaſon of the Parliaments ſudden diſſolution left vnregulated, by which meanes the abuſes no wayes diminiſhing, but rather in<g ref="char:EOLhyphen"/>creaſing, and the inconueniences of the great waſt of Bullion more plainely appearing: his Maieſtie with the Lords and others of his Priuy Councell taking it into their conſideration, vpon mature deliberation, thought the moſt preſent remedy was vtterly to ſuppreſſe the ſaid Trades, and all vnlawfull melting and fining of gold and ſiluer, according to a Statute in the raigne of <hi>Henry</hi> the 7, and other Statutes both formerly and ſince to that effect. But this prohibition by his Maieſtie and the Lords was ſo farre from taking any effect either in the Finers obedience, who are the maine offendors, or in the inferior workers, by reaſon of continuall buyers and receiuers of the commodity, as it grew vp to a far higher inconuenience then euer, and was impoſſible to reforme by ſuppreſſion, the multitude being ſo great of inferior neceſſitated people: the conſideration hereof moued his Maieſtie and the Lords to compaſſionate the cauſe, and vpon the humble petition of diuerſe conformable perſons then in exerciſe of the ſaid Manufacture, a Charter of Incorporation was granted vpon theſe enſuing propoſitions.</p>
+            <div type="part">
+               <head>For the regulating of the gold and ſiluer thread buſineſſe, and to giue a remedy to the inconueniences, (aſwell by conſumption of Bullion thereby, as by other vſes of the like nature ariſing) beſides the loſſe that may be of his Maieſties Cuſtomes by that to be made here, your Lordſhips humble petitioners vndertaking the ſaid Manufacture, humbly deſire conſideration and allowance of the propoſitions following. viz.</head>
+               <p n="1">1. To haue a Corporation, and allowance of power conuenient to examine, find out, and puniſh the abuſes aſwell in others, as thoſe of the ſame Companie, practiſing the vnlawfull melting and fining of gold or ſiluer, for the making of gold or ſiluer thread, and drawing of wier for that or any other vſe whatſoeuer, as for purles, plates, oes, ſpangles, for damasking and inlaying wyer, for wyer for cloth of gold and ſiluer, and ſuch like: and to haue power to make lawes and orders amongſt themſelues as in that caſe is vſuall, and to ſuppreſſe all others that are not allowed to be of the ſame Company.</p>
+               <p n="2">2. That one place onely be appointed and authorized, and that within the Tower of London, or in the Hall of the ſaid Company, whe<g ref="char:EOLhyphen"/>ther all ſuch ſiluer ought to be brought, to be prepared or made fit to be ſold for the making of gold or ſiluer wyer for all the aforeſaid vſes, that the quantety may appeare what is yearely expended.</p>
+               <p n="3">3. That a Standard be appointed of the fineſſe of Sterling money, with the remedy of two penny waight.</p>
+               <p n="4">4. That his Maieſties ſworne Officer or Officers keepe a true accompt of all ſuch ſiluer or gold brought in, and deliuered out for any of theſe vſes, and to make and keepe an Aſſay of the true fineſſe and goodneſſe.</p>
+               <p n="5">5. That in caſe of diſcouering any perſon making baſe or counterfet ſiluer for thread, or any of the other vſes, to the abuſe of his Maieſties ſubiects, and in contempt of his Maieſties Proclamation: they humbly deſire puniſhment of the offendors in the Starchamber for example to others.</p>
+            </div>
+            <div type="part">
+               <head>And the better to effect this.</head>
+               <p n="6">6. That his Maieſtie may be pleaſed to grant Proclamation againſt all other Finers then in the Tower or Hall of the ſaid Company, and to prohibite all the making, venting, buying or ſelling of gold and ſiluer thread made here vnſealed, and all ſuch wyer made here, for any of the aforeſaid vſes: and to prohibit the preparing of all or any maner of materialls, and things for the making of gold and ſiluer thread, other then ſuch as is to ſerue to the end of this Corporation.</p>
+            </div>
+            <div type="part">
+               <head>Which propoſitions on his Maieſties behalfe being performed, they ſhall be enabled, and doe on their behalfes promiſe the performance of theſe enſu<g ref="char:EOLhyphen"/>ing Articles.</head>
+               <p n="1">1. To giue ſecurity to his Maieſtie, to be taken by the Lord Treaſurer and Chancellor, for the time being to make appeare by ſubſtantiall proofe, the good effect in the performance, that after one ſixe moneths firſt allowed them for prouiſion and ſtore, they will yearely bring in before hand ſo much Bullion from forreigne parts to the Tower of London, and conuert the ſame into the Currant coyne of the kingdome, as ſhall be expended on thoſe vſes, for which a true and exact accompt is to be kept.</p>
+               <p n="2">2. That each perſon of the Corporation will giue bond to his Maieſties vſe, and at his admittance into the Company ſhall take oath not to vſe or buy any ſiluer at all for any of the vſes aforeſaid, but that which he ſhall buy in the Tower of London.</p>
+               <p n="3">3. They doe further offer to pay his Maieſtie, in conſideration of the loſſe of cuſtome that may ariſe by the ſaid Manufactures and other<g ref="char:EOLhyphen"/>wiſe, ſixe pence vpon euery ounce of gold and ſiluer wyer they ſhall haue occſion to vſe for any of the aforeſaid vſes, and to pay foure pence for the Seale vpon euery Marke or pound of thread.</p>
+               <p n="4">4. They doe not deſire to prohibit any forreigne commoditie of that nature, being brought in by way of trade, except it ſhall proue baſe or counterfit, then the ſame to be forfeited.</p>
+               <p n="5">5. And they farther humbly deſire, that vpon performance of the premiſes at the expiration of the time limited, and giuing new bonds, their old bonds may be deliuered vnto them againe.</p>
+               <p>Theſe Letters Pattents of Incorporation had beginning in Iune laſt, with power to make orders according to the vſuall courſe of that kind, wherein were incorporated neere to the number of 100. perſons, as principalls to imploy others, who were thereby preſcribed to enter bond of 100 <hi>l.</hi> a peece to his Maieſtie, and beſides to take oath.</p>
+               <p>All which whole number, (except one deceitfull old woman, and one that was her Seruant) tooke the ſame oath accordingly, and three other by their example refuſed to enter into bond, rather ieſting with an oath, then aduenturing to be bound to that they had already ſworne to: theſe being obſtinate in their owne wayes, entending fraud from the beginning, and neither expecting dutie to his Maieſtie or the Lawes, or conueniences of the weale publique, practiſing by ſiniſter wayes and ſecret vndiſcernable courſes by all poſſible meanes to bring all backe into confuſion, that they might againe returne to the courſe of vnlawfull melting and fining of gold and ſiluer, to be conuerted to any of the forbidden vſes, by whoſe former and latter example all other irreguler perſons are incouraged preſumptuouſly and confidently to follow their wayes, inconſiderately preſuming of that liberty that neither the lawes of the Kingdome, nor conueniencie of State can any wayes tollerate.</p>
+            </div>
+            <div type="part">
+               <head>The effect of this, preſents to conſideration <hi>4.</hi> principall points.</head>
+               <p>Firſt, the vnorderly conſumption and waſte of Bullion without account, to the hinderance and preuention of the encreaſe of the coine of this Kingdome: and this comes firſt from vnlawfull finers, who melting downe great quantities of coine and bullion, to enrich themſelues thereby, diſperſe and diſpoſe it to all perſons, which may be aſwell tranſported as vſed here on theſe prohibited vſes, and theſe examples enuite and incourage all theſe diſorderly perſons.</p>
+               <p>And theſe ſecret finers, are ordinary receiuers of ſtolne plate from any perſon whatſoeuer.</p>
+               <p n="2">2. The falſification of the commodity by theſe diſordered perſons, either by imbaſing the quallity thereof in ſeuerall kindes, or in not gi<g ref="char:EOLhyphen"/>uing the due proportion of quantity thereunto, in the ouerflight working of the commodity.</p>
+               <p n="3">3. Preiudice to his Maieſtie in thoſe duties that are to him acknowledged by way of recompence, for the loſſe of cuſtomes of that was vſually brought from forreigne parts.</p>
+               <p n="4">4. The inequallity of iuſtice to ſuch as haue duly ſerued in a lawfull way of trade, when aſwell forraigners and ſtrangers expelled their own Countrey, appropriate to themſelues both the benefit of naturall borne ſubiects, and of free men, to the nurſery of lewde idle and diſhoneſt ſeruants, who vntimely make themſelues free men from their Maſters ſeruice without conſent. Whereas on the contrary, true account being kept of the Bullion, it will be a great meanes for the dayly imployment of his Maieſties Mint, preuent all falſities: gaue <hi>Caeſar</hi> his due, and diſ<g ref="char:EOLhyphen"/>tribute equall Iuſtice to ſuch as either ſerue or purchaſe their trades by redemption: and the Commodities better, and better cheape then euer.</p>
+               <pb facs="tcp:17250:4" rendition="simple:additions"/>
+               <pb facs="tcp:17250:4" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
